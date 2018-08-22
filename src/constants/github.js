@@ -1,0 +1,13 @@
+/**
+ * Action Types
+ */
+
+// Get repos
+export const GET_REPOS_IN_PROGRESS = 'GET_REPOS_IN_PROGRESS';
+export const GET_REPOS_SUCCESS = 'GET_REPOS_SUCCESS';
+export const GET_REPOS_FAILURE = 'GET_REPOS_FAILURE';
+
+// Get star status
+export const GET_STAR_STATUS_IN_PROGRESS = 'GET_STAR_STATUS_IN_PROGRESS';
+export const GET_STAR_STATUS_SUCCESS = 'GET_STAR_STATUS_SUCCESS';
+export const GET_STAR_STATUS_FAILURE = 'GET_STAR_STATUS_FAILURE';

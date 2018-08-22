@@ -5,8 +5,10 @@
   "dependencies": {
     "connected-react-router": "^4.4.1",
     "history": "^4.7.2",
+    "query-string": "^6.1.0",
     "react": "^16.4.2",
     "react-dom": "^16.4.2",
+    "react-infinite-scroller": "^1.2.0",
     "react-redux": "^5.0.7",
     "react-router-dom": "^4.3.1",
     "react-scripts": "1.1.4",
